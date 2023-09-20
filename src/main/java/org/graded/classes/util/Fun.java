@@ -16,7 +16,6 @@ public class Fun {
         System.out.println(rt);
         System.out.println(sum(5,9));
         Rectangle re=new Rectangle(6,7.0f);
-        System.out.println(re.area());
         System.out.println(re.perimeter());
         System.out.println(re.diagonal());
     }
