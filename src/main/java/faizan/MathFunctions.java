@@ -1,6 +1,6 @@
 package faizan;
 
-class MathFunction {
+class MathFunctions {
     public static void main(String[] args)
     {
         System.out.println(Math.sqrt(25));
