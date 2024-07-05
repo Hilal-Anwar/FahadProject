@@ -17,6 +17,7 @@ public class Zara {
                     System.out.println();
                 }
             }
+            break;
             case 2:
             {
                 for (int i = 5; i >= 1; i--) {
@@ -27,6 +28,8 @@ public class Zara {
                 }
             }
             break;
+            default:
+                System.out.println("Invalid input");
         }
     }
 }
