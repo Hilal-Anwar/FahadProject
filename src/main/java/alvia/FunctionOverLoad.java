@@ -47,6 +47,6 @@ public class FunctionOverLoad {
 
     public static void main(String[] args) {
         FunctionOverLoad f = new FunctionOverLoad();
-        f.number(121);
+        f.number(121.0);
     }
 }
