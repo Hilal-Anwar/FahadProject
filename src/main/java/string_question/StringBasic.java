@@ -2,10 +2,9 @@ package string_question;
 
 public class StringBasic {
     public static void main(String[] args) {
-        String s=" Java and bluej ";
+        String s="Java and bluej";
         /*
-        s=J a v a  a n d  b l u  e  j
-          0 1 2 3 4 5 6 7 8 9 10 11 12
+       [J, a, v, a,  , a, n, d,  , b, l, u, e, j]
          */
         System.out.println(s.length());
         System.out.println(s.charAt(13));

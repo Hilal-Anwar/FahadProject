@@ -1,7 +1,9 @@
 package alvia;
 
 import java.util.Scanner;
-
+/*
+153=1*1*1+2*2*2+3*3*3=153
+ */
 public class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
