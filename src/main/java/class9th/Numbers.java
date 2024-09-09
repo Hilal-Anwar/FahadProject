@@ -3,7 +3,8 @@ package class9th;
 import java.util.*;
 
 public class Numbers {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         int n;
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number");
